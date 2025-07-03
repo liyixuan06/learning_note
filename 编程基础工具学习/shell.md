@@ -1,0 +1,27 @@
+# shell的应用
+
+- ## 1.1 常见的命令
+  - 1.1.1 几种常见的命令
+    - cd ..
+    - cd .
+    - mkdir
+    - rmdir
+    - mv
+    - ls
+    - ls -l 可以查询目录下面的文件的可执行情况
+    - ctrl+L
+    - pwd
+    - date
+    - which
+    - cd ~
+    - man ……
+    - cat
+    - cat<hello.txt>hello2.txt
+    - cat<hello.txt
+    - cat<hello.txt>>hello2.txt
+    - ls -l | tail -n1 只打印ls的最后一行。这个符号的意思是左侧的输出会作为右侧的输入。
+    - xdg-open
+    - man chmod
+    - chmod u+x semester 可以改变文件的可执行情况
+    - ./ semester 直接执行文件
+    - touch 可以新建文件
